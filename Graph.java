@@ -1,10 +1,3 @@
-// Title: Graph class
-// Author: İrem Ayça/Uçankale
-// ID: 12293337022
-// Section: 02
-// Assignment: HW1 Q1
-/* Description: This class, which implements an undirected graph data structure, is designed to identify “bridges” (critical edges that split the graph into more fragments when removed)
-within the graph using the DFS algorithm.*/
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
