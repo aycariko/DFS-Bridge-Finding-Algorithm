@@ -1,11 +1,3 @@
-// Title: BridgeTester class
-// Author: İrem Ayça/Uçankale
-// ID: 12293337022
-// Section: 02
-// Assignment: HW1 Q1
-/* Description: A custom tester class to verify the DFS-based bridge detection algorithm with
- various graph scenarios (cycle, tree, and mixed components) without needing manual console input.*/
-
 import java.util.Collections;
 import java.util.List;
 
