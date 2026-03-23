@@ -20,9 +20,3 @@ This repository contains a Java implementation for detecting **bridges** (critic
 ### Prerequisites
 * Java Development Kit (JDK) 8 or higher.
 
-### Compilation and Execution
-
-**To run the automated tests:**
-1. Compile the files:
-   ```bash
-   javac BridgeTester.java Graph.java
