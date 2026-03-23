@@ -1,10 +1,3 @@
-//Title: Main class
-// Author: İrem Ayça/Uçankale
-// ID: 12********
-// Section: 02
-// Assignment: HW1 Q1
-/* Description:This is the main class that creates a graph object by retrieving node and edge information from the user,
-sorts the detected edges, and displays the results on the screen in the appropriate format.*/
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
